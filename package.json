@@ -4,11 +4,11 @@
     "description": "Config plugin to auto configure notifee sounds and icons on prebuild",
     "main": "build/withNotifications.js",
     "types": "build/withNotifications.d.ts",
+    "license": "MIT",
     "sideEffects": false,
     "repository": {
       "type": "git",
-      "url": "https://github.com/simonitfi/notifee-expo-plugin.git",
-      "directory": "notifee-expo-plugin"
+      "url": "https://github.com/simonitfi/notifee-expo-plugin.git"
     },
     "files": [
       "build",
